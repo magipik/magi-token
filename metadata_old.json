@@ -1,7 +1,6 @@
 {
-  "name": "The new Magi token",
-  "symbol": "MGI",
-  "uri": "https://raw.githubusercontent.com/magipik/magi-token/main/magi_square_white_logo.png",
-  "seller_fee_basis_points": 0,
-  "creators": null
+  "name": "Fucking SOL",
+  "symbol": "FSOL",
+  "description": "Just a jolk for SOL",
+  "image": "https://raw.githubusercontent.com/magipik/magi-token/main/magi_square_white_logo.png"
 }
